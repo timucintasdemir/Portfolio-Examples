@@ -11,7 +11,7 @@ To view the website locally, simply clone the repository and open the index.html
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone (https://github.com/timucintasdemir/Portfolio-Examples.git)
 Screenshots
 
 
